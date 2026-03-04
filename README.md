@@ -28,6 +28,6 @@ This project was a great hands-on experience in building real-world video stream
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 10" src="https://github.com/user-attachments/assets/4eee57ff-38bd-4e9e-a201-01762f9a8eb5" />
 
 
-<img width="375" height="667" <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 40" src="https://github.com/user-attachments/assets/789c1ee2-e031-4956-a54f-f775beb010e6" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 40" src="https://github.com/user-attachments/assets/789c1ee2-e031-4956-a54f-f775beb010e6" />
 
 

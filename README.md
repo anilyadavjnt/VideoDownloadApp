@@ -3,7 +3,7 @@ Built a Netflix-style download feature in iOS using Swift + UIKit, where users c
 ✅ Browse a list of videos
 ✅ Start downloads with live progress tracking
 ✅ Manage offline content with Core Data
-✅ Enjoy a clean and simple UI for the best experience
+✅ Enjoy a clean and simple UI for the best experience.
 
 🛠️ Tech Highlights:
 UIKit + MVC Architecture

@@ -1,5 +1,5 @@
 🚀 Excited to share my latest project — VideoDownloadApp 📱🎬
-Built a Netflix-style download feature in iOS using Swift + UIKit, where users can:
+Built a Netflix-style download feature in iOS using Swift + UIKit, where users can:-
 ✅ Browse a list of videos
 ✅ Start downloads with live progress tracking
 ✅ Manage offline content with Core Data

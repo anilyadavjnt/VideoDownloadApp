@@ -85,7 +85,6 @@ Example:
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 01" src="https://github.com/user-attachments/assets/6fce72eb-23d8-4454-8f1e-9c8fbf3e9fb1" />
 
-
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 10" src="https://github.com/user-attachments/assets/4eee57ff-38bd-4e9e-a201-01762f9a8eb5" />
 
 

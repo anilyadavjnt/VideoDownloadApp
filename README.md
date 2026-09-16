@@ -146,13 +146,17 @@ LinkedIn: https://linkedin.com/in/anilyadavjnt
 
 ## 👨‍💻 About the Developer
 
-I'm an **iOS Developer with 2+ years of experience** working with Swift, UIKit, REST APIs, Firebase, payment integrations, and production iOS applications.
+**Anil Kumar Yadav**
+iOS Developer | Swift | UIKit
 
-I'm currently focused on building scalable iOS applications and improving my skills in advanced Swift, architecture, networking, and performance optimization.
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-## ⭐ Support
+Anil Yadav ( iOS Developer )
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
+
 
 ---
 

@@ -1,18 +1,149 @@
-🚀 Excited to share my latest project — VideoDownloadApp 📱🎬
-Built a Netflix-style download feature in iOS using Swift + UIKit, where users can:-
-✅ Browse a list of videos
-✅ Start downloads with live progress tracking
-✅ Manage offline content with Core Data
-✅ Enjoy a clean and simple UI for the best experience.
+# 📱 VideoDownloadApp — iOS Video Downloader
 
+VideoDownloadApp is an iOS application built with **Swift + UIKit** that provides a simple and user-friendly interface for downloading and managing video files.
 
-🛠️ Tech Highlights:
-UIKit + MVC Architecture
-Background downloads with URLSession
-Core Data integration for offline storage
-Custom UITableViewCell for video & download status
-Reusable managers for clean and scalable code
-This project was a great hands-on experience in building real-world video streaming + download functionality.
+The project demonstrates practical iOS development concepts including **UIKit, URLSession, asynchronous downloads, download progress tracking, local file management, Auto Layout, and MVC architecture**.
+
+## 🚀 Features
+
+* 🎬 Video URL based downloading
+* ⬇️ Download videos directly within the app
+* 📊 Download progress tracking
+* ⏸️ Download state handling
+* 📁 Local video/file management
+* ▶️ Video playback
+* 🗑️ Delete downloaded videos
+* 📱 Responsive UIKit interface
+* 🔄 Asynchronous network operations
+* 💾 Local file storage
+* ⚡ Clean and simple user experience
+
+## 🛠️ Technologies Used
+
+* **Swift**
+* **UIKit**
+* **Storyboard / XIB**
+* **Auto Layout**
+* **URLSession**
+* **FileManager**
+* **AVFoundation / AVKit**
+* **MVC Architecture**
+* **Git & GitHub**
+* **Xcode**
+
+## 📂 Project Structure
+
+```text
+VideoDownloadApp/
+├── AppDelegate.swift
+├── SceneDelegate.swift
+├── ViewControllers/
+├── Models/
+├── Views/
+├── Services/
+├── Resources/
+└── Assets.xcassets
+```
+
+## 🎯 iOS Concepts Demonstrated
+
+This project is useful for demonstrating:
+
+* URLSession download tasks
+* Background/asynchronous operations
+* Progress handling
+* FileManager
+* Local file storage
+* AVPlayer / video playback
+* Delegates and callbacks
+* UIKit UI development
+* Auto Layout
+* MVC architecture
+* Error handling
+* Memory management
+
+## 📸 Screenshots
+
+Add your application screenshots here:
+
+```text
+Screenshots/
+├── Home.png
+├── Download.png
+├── Progress.png
+├── Downloads.png
+└── VideoPlayer.png
+```
+
+Example:
+
+![Home Screen](Screenshots/Home.png)
+
+![Download Screen](Screenshots/Download.png)
+
+![Downloads Screen](Screenshots/Downloads.png)
+
+## ⚙️ Requirements
+
+* macOS
+* Xcode
+* iOS 13.0+
+* Swift 5+
+
+## 🔧 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/anilyadavjnt/VideoDownloadApp.git
+```
+
+### 2. Open the project
+
+Open:
+
+```text
+VideoDownloadApp.xcodeproj
+```
+
+in Xcode.
+
+### 3. Select an iOS Simulator or connected device
+
+Choose your preferred device from the Xcode device selector.
+
+### 4. Build and Run
+
+Press:
+
+```text
+⌘ + R
+```
+
+to build and run the application.
+
+## 🔗 GitHub
+
+**Developer:** Anil Kumar Yadav
+
+GitHub: https://github.com/anilyadavjnt
+
+LinkedIn: https://linkedin.com/in/anilyadavjnt
+
+## 👨‍💻 About the Developer
+
+I'm an **iOS Developer with 2+ years of experience** working with Swift, UIKit, REST APIs, Firebase, payment integrations, and production iOS applications.
+
+I'm currently focused on building scalable iOS applications and improving my skills in advanced Swift, architecture, networking, and performance optimization.
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+**Built with ❤️ using Swift & UIKit**
+
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 00 55" src="https://github.com/user-attachments/assets/8e481b01-988d-431e-a724-b7a72f6d62c2" />
 

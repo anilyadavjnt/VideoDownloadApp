@@ -90,7 +90,6 @@ Example:
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-03-04 at 21 05 40" src="https://github.com/user-attachments/assets/789c1ee2-e031-4956-a54f-f775beb010e6" />
 
 
-
 ## ⚙️ Requirements
 
 * macOS

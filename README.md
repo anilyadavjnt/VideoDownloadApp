@@ -126,7 +126,6 @@ Press:
 ⌘ + R
 ```
 
-
 ## 👨‍💻 About the Developer
 
 **Anil Kumar Yadav**

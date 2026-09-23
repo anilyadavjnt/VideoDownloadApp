@@ -127,7 +127,6 @@ Press:
 ```
 
 
-
 ## 👨‍💻 About the Developer
 
 **Anil Kumar Yadav**

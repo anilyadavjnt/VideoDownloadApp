@@ -126,15 +126,7 @@ Press:
 ⌘ + R
 ```
 
-to build and run the application.
 
-## 🔗 GitHub
-
-**Developer:** Anil Kumar Yadav
-
-GitHub: https://github.com/anilyadavjnt
-
-LinkedIn: https://linkedin.com/in/anilyadavjnt
 
 ## 👨‍💻 About the Developer
 
